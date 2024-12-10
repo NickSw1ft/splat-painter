@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://bavbqcjg6vvof"]
 
-[ext_resource type="Script" path="res://addons/splat_paint/UI/PaintSelector.cs" id="1_gh4ht"]
+[ext_resource type="Script" path="res://addons/splat_paint/UI/PaintSelector.gd" id="1_gh4ht"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8epjj"]
 cull_mode = 2
