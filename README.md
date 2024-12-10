@@ -1,4 +1,4 @@
-# Godot 4 - Splat Painter (.NET 8.0)
+# Godot 4 - Splat Painter (gdscript)
 
 Simple tool to paint splat texture directly on the Mesh surface in Godot editor. Created for personal & educational purposes to replicate specific feature of amazing [Zylann/Heightmap](https://github.com/Zylann/godot_heightmap_plugin) plugin.
 
